@@ -1,0 +1,197 @@
+body{
+    background-image:
+    linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+    linear-gradient(127deg, black, black 70.71%),
+    linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+a{
+    color: white;
+    padding: 8px;
+}
+a:hover{
+    color:red;
+}
+div{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: snow;
+    text-align: center;
+}
+#takwa{
+    margin-left: 30%;
+}
+form{
+    text-align: center;
+}
+div iframe{
+    margin-left: 30%;
+}
+textarea{
+    font-size: 20px;
+    margin-left: -30%;
+    max-height: 200px;
+    max-width: 700px;
+}
+
+#ulNav{
+    margin-left:23%;
+}
+
+#ulNav>li{
+    margin-left:70px;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    
+}
+#ulNav>li>a{
+    color:white !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#ulNav>li>a:hover {
+    color:red !important;
+}
+.navbar{
+    background-color: transparent !important;
+    border-color:transparent !important;
+}
+#ghirrbo3{
+    margin-left: 42%;
+
+}
+#more{
+   font-size: 18px;
+   margin-left: 45%;
+   
+    
+}
+iframe{
+    margin-left: 30%;
+}
+#cc{
+    color:white;
+}
+.sdsd{
+    background: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel.png);
+}
+.haha, .hahaha, .hahahaha{
+    height: 250px;
+    width: 250px;
+    text-align: center;
+}
+#back{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.haha{
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel.png);
+}
+.hahaha{
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel1.png);
+}
+.hahahaha{
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/tracks/Objet%20dynamique%20vectoriel2.png);
+    
+}
+#firstpart{
+    display:flex;
+    justify-content: space-around;
+}
+#secondpart{
+    display:flex;
+    justify-content: space-around;
+}
+#thirdpart{
+    display:flex;
+    justify-content: space-around;
+}
+
+
+.bntcourses{
+    margin-top: 45%;
+    margin-left: 35%;
+    display: none;
+}
+.bntcourses1{
+    margin-top: 45%;
+    margin-left: 35%;
+    display: none;
+}
+.bntcourses2{
+    margin-top: 45%;
+    margin-left: 35%;
+    display: none;
+}
+.bntcourses3{
+    margin-top: 45%;
+    margin-left: 35%;
+    display: none;
+}
+.bntcourses4{
+    margin-top: 45%;
+    margin-left: 35%;
+    display: none;
+}
+.bntcourses5{
+    margin-top: 45%;
+    margin-left: 35%;
+    display: none;
+}
+.bntcourses6{
+    margin-top: 45%;
+    margin-left: 35%;
+    display: none;
+}
+.bntcourses7{
+    margin-top: 45%;
+    margin-left: 35%;
+    display: none;
+}
+.bntcourses8{
+    margin-top: 45%;
+    margin-left: 35%;
+    display: none;
+}
+.cover{
+width: 100%;
+    height: 450px;
+    padding: 50px;
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 87px;
+    box-sizing: border-box;
+}
+.heading{
+    margin-top: 100px;
+}
+.covers{
+    width: 100%;
+    height: 450px;
+    padding: 50px;
+    background-image: url(https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 87px;
+    box-sizing: border-box;
+}    
+.modal{
+    margin-top: 200px;
+    color: white;
+}
+.modal-content{
+    background-color: black;
+}
+.btn{
+    margin-top: 40%;
+    background-color: black;
+    outline: none;
+    display: none;
+}
